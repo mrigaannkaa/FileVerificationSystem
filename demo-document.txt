@@ -1,0 +1,29 @@
+SecureFile Hackathon Demo Document
+=====================================
+
+This is a sample document for demonstrating the SecureFile blockchain integrity system.
+
+Document Details:
+- Created: July 12, 2025
+- Purpose: Hackathon demonstration
+- Technology: Blockchain-based file verification
+- Security: SHA-256 cryptographic hashing
+
+Content Summary:
+This document represents a critical file that needs integrity verification.
+Any modification to this content will be detected by the blockchain system.
+
+Features Demonstrated:
+1. File upload with automatic hashing
+2. Immutable blockchain storage
+3. Real-time integrity verification
+4. Tamper detection capabilities
+5. Audit trail maintenance
+
+Use this file to test:
+- Upload and secure the file
+- Verify the original file (should pass)
+- Modify this file and verify again (should fail)
+- Verify using only the SHA-256 hash
+
+The SecureFile system ensures complete data integrity and security.
