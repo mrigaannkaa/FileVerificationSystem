@@ -2,27 +2,27 @@
 
 A comprehensive blockchain-based file integrity verification system that ensures data security, authenticity, and non-repudiation using cutting-edge technology.
 
-## 🌟 Key Features
+##  Key Features
 
-### 🔒 **Tamper-Proof Security**
+###  **Tamper-Proof Security**
 - SHA-256 cryptographic hashing  
 - Immutable blockchain storage  
 - Real-time integrity verification  
 - Rollback attack prevention  
 
-### 🌐 **Decentralized Architecture**
+###  **Decentralized Architecture**
 - IPFS integration for distributed storage  
 - Ethereum blockchain for immutable records  
 - MetaMask wallet connectivity  
 - Smart contract automation  
 
-### 💻 **Modern User Experience**
+###  **Modern User Experience**
 - Intuitive drag-and-drop file upload  
 - Real-time verification feedback  
 - Comprehensive audit trail  
 - Responsive Material-UI design  
 
-### 🔍 **Advanced Verification**
+###  **Advanced Verification**
 - File upload verification  
 - Hash-based verification  
 - Batch verification support  
@@ -30,7 +30,7 @@ A comprehensive blockchain-based file integrity verification system that ensures
 
 ---
 
-## 🚀 Technology Stack
+##  Technology Stack
 
 ### Frontend
 - **React 18** with TypeScript  
@@ -54,16 +54,4 @@ A comprehensive blockchain-based file integrity verification system that ensures
 - **Gas-optimized** operations  
 
 ---
-
-## 🛠️ Installation & Setup
-
-### Prerequisites
-- Node.js 18+ and npm  
-- MetaMask browser extension  
-- Git  
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-repo/securefile
-cd securefile
 
